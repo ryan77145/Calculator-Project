@@ -31,15 +31,3 @@ calculate();
 clear.addEventListener ("click", () => {
   screen.textContent = "|";
 })
-
-
-/* function tipCalculator(getInput) {
- let tipPerPerson = totalBill * percentage / people; 
-   tipPerPerson;
-};
-
-tipCalculator(); */
-
-//buttonequal.addEventListener ("click", () => {
-
-//})
